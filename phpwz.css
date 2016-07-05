@@ -1,0 +1,47 @@
+body{
+	margin:0;
+	padding:0;
+}
+ul{
+	margin:0;
+	padding:0;
+}
+li{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+a{
+	text-decoration:none;
+	color:#39ac00;
+
+}
+span{
+	color:#a2a2a2;
+	float:right;
+}
+.lb{
+	width:1200px;
+	margin:0 auto;
+}
+.lb ul li a{
+	display:block;
+	float:left;
+}
+.lb ul li a:hover{
+	color:#fb5514;
+}
+.lb ul li span{
+	color:#a2a2a2;
+	float:right;
+}
+.lb ul li{
+
+	line-height:40px;
+	height:40px;
+	border-bottom:1px solid #e3e3e3;
+}
+.lb ul li:hover{
+	color:#fff;
+	background:#f0f0f0;
+}
